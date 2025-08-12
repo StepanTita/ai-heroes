@@ -1,0 +1,3242 @@
+[
+  {
+    "a": "batman",
+    "b": "captain america",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "captain america",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 5,
+    "winsB": 5,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "dante",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 5,
+    "winsB": 5,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "deadpool",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "hulk",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "ironman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "kratos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "saitama",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "saitama",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "saitama",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "saitama",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "saitama",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "spiderman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "spiderman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "spiderman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "spiderman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "superman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "superman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "superman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "thanos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "thanos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "thor",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gemini/gemini-2.5-flash"
+  },
+  {
+    "a": "batman",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "captain america",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "dante",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "deadpool",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "deadpool",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "deadpool",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "deadpool",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "deadpool",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "hulk",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "ironman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "ironman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "ironman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "ironman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "ironman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "kratos",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "kratos",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "kratos",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "kratos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "saitama",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "saitama",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "saitama",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "saitama",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "spiderman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "spiderman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "spiderman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "spiderman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "superman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "superman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "thanos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "thanos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5"
+  },
+  {
+    "a": "batman",
+    "b": "captain america",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "goku",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "dante",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "goku",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "goku",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "goku",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 8,
+    "winsB": 2,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 4,
+    "winsB": 6,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 6,
+    "winsB": 4,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "superman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "superman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "superman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "thanos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "thanos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "thor",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "gpt-5-mini"
+  },
+  {
+    "a": "batman",
+    "b": "captain america",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "captain america",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "dante",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "deadpool",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "hulk",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "ironman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "ironman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "ironman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "ironman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 6,
+    "winsB": 4,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "kratos",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "kratos",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "kratos",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "kratos",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "kratos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "saitama",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "saitama",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "saitama",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "saitama",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "saitama",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "spiderman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "spiderman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "spiderman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "spiderman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "superman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "thanos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "thanos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "meta_llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+  },
+  {
+    "a": "batman",
+    "b": "captain america",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "batman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "dante",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "captain america",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "deadpool",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "dante",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "hulk",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 2,
+    "winsB": 8,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 7,
+    "winsB": 3,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "deadpool",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "ironman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 1,
+    "winsB": 9,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "hulk",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "kratos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "ironman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 3,
+    "winsB": 7,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "saitama",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 6,
+    "winsB": 4,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "kratos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "spiderman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 9,
+    "winsB": 1,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "saitama",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "superman",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "spiderman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "superman",
+    "b": "thanos",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "superman",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 0,
+    "winsB": 10,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "superman",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "thanos",
+    "b": "thor",
+    "runs": 10,
+    "winsA": 6,
+    "winsB": 4,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "thanos",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  },
+  {
+    "a": "thor",
+    "b": "wolverine",
+    "runs": 10,
+    "winsA": 10,
+    "winsB": 0,
+    "updatedAt": "2025-08-12T02:53:04.489823+00:00",
+    "model": "xai/grok-3-mini"
+  }
+]

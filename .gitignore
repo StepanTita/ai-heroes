@@ -1,0 +1,40 @@
+.vscode/
+dist
+cache
+reports/files
+reports/
+__pycache__
+*.py[cod]
+!lb_quality_scoring/reports
+analysis_output
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env.local
+**/.env.secrets.gen
+**/.env.secrets.*.gen
+**/local.env
+**/secrets.env
+.idea/
+.DS_Store
+logs
+projects/
+logs/
+plots/
+results/
+ARCHIVE
+.pytest_cache/
+.coverage
+*_cache/
+
+# Vendored dependencies
+# Exclude temporary files but include wheel files
+libs/*.tmp
+pyproject.toml.backup
+build/

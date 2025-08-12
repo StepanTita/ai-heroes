@@ -1,0 +1,84 @@
+.root { padding: 24px 24px 24px; }
+
+.bar {
+  position: relative;
+  height: 24px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.08);
+  overflow: visible; /* allow avatars to extend outside */
+  box-shadow: var(--shadow);
+  display: grid;
+  grid-template-columns: 40px 1fr 40px;
+}
+
+.fillA, .fillB {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  transition: width 320ms ease, background-color 240ms ease;
+}
+
+.fillA {
+  border-radius: 999px 0 0 999px;
+}
+
+.fillB {
+  border-radius: 0 999px 999px 0;
+}
+
+.avatarLeft, .avatarRight {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transform: translateY(-8px);
+  z-index: 10; /* ensure avatars are above other elements */
+  background: var(--surface);
+  border: 2px solid rgba(0,0,0,0.18);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.18);
+}
+
+.avatarLeft img, .avatarRight img {
+  opacity: 1;
+  mix-blend-mode: normal;
+}
+
+/* narrow blending strip that moves with the split to create a smooth gradient */
+.blend {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 28px;
+  border-radius: 999px;
+  pointer-events: none;
+  z-index: 5;
+  transition: left 320ms ease;
+}
+
+
+
+.legend {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .root { padding: 16px; }
+  .bar { grid-template-columns: 32px 1fr 32px; }
+  .avatarLeft, .avatarRight { width: 32px; height: 32px; transform: translateY(-6px); }
+  .legend { font-size: 12px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fillA, .fillB { transition: none; }
+  .blend { transition: none; }
+}
+
+

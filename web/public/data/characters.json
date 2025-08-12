@@ -1,0 +1,15 @@
+[
+  { "id": "superman", "name": "Superman", "universe": "DC", "imageUrl": "/images/superman.jpeg", "color": "#1A8FE3" },
+  { "id": "kratos", "name": "Kratos", "universe": "God of War", "imageUrl": "/images/kratos.jpeg", "color": "#b13a3a" },
+  { "id": "thor", "name": "Thor", "universe": "Marvel", "imageUrl": "/images/thor.jpeg", "color": "#6b8dd6" },
+  { "id": "batman", "name": "Batman", "universe": "DC", "imageUrl": "/images/batman.jpeg", "color": "#2d2d2d" },
+  { "id": "spiderman", "name": "Spiderman", "universe": "Marvel", "imageUrl": "/images/spiderman.jpeg", "color": "#e62429" },
+  { "id": "dante", "name": "Dante", "universe": "Devil May Cry", "imageUrl": "/images/dante.jpeg", "color": "#b22222" },
+  { "id": "saitama", "name": "Saitama", "universe": "One Punch Man", "imageUrl": "/images/saitama.jpeg", "color": "#ffe066" },
+  { "id": "hulk", "name": "Hulk", "universe": "Marvel", "imageUrl": "/images/hulk.jpeg", "color": "#4aaf4a" },
+  { "id": "thanos", "name": "Thanos", "universe": "Marvel", "imageUrl": "/images/thanos.jpeg", "color": "#7c4bc9" },
+  { "id": "ironman", "name": "Ironman", "universe": "Marvel", "imageUrl": "/images/ironman.jpeg", "color": "#c42d1c" },
+  { "id": "wolverine", "name": "Wolverine", "universe": "Marvel", "imageUrl": "/images/wolverine.jpeg", "color": "#f8d12f" },
+  { "id": "captain america", "name": "Captain America", "universe": "Marvel", "imageUrl": "/images/captain-america.jpeg", "color": "#22408c" },
+  { "id": "deadpool", "name": "Deadpool", "universe": "Marvel", "imageUrl": "/images/deadpool.jpeg", "color": "#b90e19" }
+]
