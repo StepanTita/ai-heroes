@@ -1,70 +1,184 @@
 .root {
-  padding: 56px 24px 8px; /* extra top space so avatars never clip */
-  max-width: 1100px;
+  padding: 32px 24px 16px;
+  max-width: 1200px;
   margin: 0 auto;
+  background: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: 16px;
+  box-shadow: 0 4px 16px hsl(var(--foreground) / 0.05);
+}
+
+/* Added header section styling */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  margin: 0 0 8px 0;
+  background: linear-gradient(135deg, hsl(var(--accent)), hsl(var(--chart-2)));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: hsl(var(--muted-foreground));
+  margin: 0;
+  font-weight: 500;
 }
 
 .bars {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  gap: 20px;
-  min-height: 360px;
+  gap: 24px;
+  min-height: 380px;
   overflow-x: auto;
-  overflow-y: visible; /* ensure avatars above bars are visible */
-  padding-bottom: 12px;
+  overflow-y: visible;
+  padding: 0 16px 16px;
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--muted)) transparent;
+}
+
+.bars::-webkit-scrollbar {
+  height: 6px;
+}
+
+.bars::-webkit-scrollbar-track {
+  background: hsl(var(--muted) / 0.3);
+  border-radius: 3px;
+}
+
+.bars::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted));
+  border-radius: 3px;
 }
 
 .bar {
   position: relative;
-  width: 90px;
+  width: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
   cursor: pointer;
-  padding-top: 64px; /* reserve space for avatar so it never clips */
+  padding-top: 72px;
+  transition: transform 200ms ease;
+}
+
+.bar:hover {
+  transform: translateY(-4px);
+}
+
+/* Added special styling for top 3 performers */
+.topThree {
+  filter: drop-shadow(0 8px 16px hsl(var(--accent) / 0.2));
+}
+
+/* Added rank indicators */
+.rank {
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: white;
+  z-index: 4;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.rank1 {
+  background: linear-gradient(135deg, #ffd700, #ffed4e);
+  color: #1f2937;
+}
+
+.rank2 {
+  background: linear-gradient(135deg, #c0c0c0, #e5e7eb);
+  color: #1f2937;
+}
+
+.rank3 {
+  background: linear-gradient(135deg, #cd7f32, #d97706);
 }
 
 .track {
   position: relative;
   width: 100%;
-  height: 280px;
-  border-radius: 12px;
-  background: linear-gradient(to top, rgba(0,0,0,0.08), rgba(255,255,255,0.04));
+  height: 300px;
+  /* increased border radius to better match circular avatars */
+  border-radius: 24px;
   overflow: hidden;
   z-index: 1;
+  background: hsl(var(--muted) / 0.2);
+  border: 1px solid hsl(var(--border));
+}
+
+/* Enhanced track background with subtle pattern */
+.trackBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    180deg,
+    hsl(var(--muted) / 0.1) 0%,
+    hsl(var(--muted) / 0.05) 50%,
+    hsl(var(--muted) / 0.1) 100%
+  );
 }
 
 .fill {
   position: absolute;
   bottom: 0;
   width: 100%;
-  border-radius: 12px 12px 0 0;
-  transition: height 220ms ease, background-color 200ms ease;
+  /* increased border radius to match track */
+  border-radius: 24px 24px 0 0;
+  transition: height 400ms cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 2;
 }
 
-.stack {
-  position: relative;
+/* Added glow effect for top performers */
+.glow {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  padding-top: 32px; /* ensure space for avatar to not be occluded */
+  /* increased border radius to match track */
+  border-radius: 24px 24px 0 0;
+  z-index: 1;
+  filter: blur(8px);
+  opacity: 0.6;
 }
 
 .avatar {
   position: absolute;
-  top: 0;
+  /* moved avatar higher to create separation from bars */
+  top: 32px;
   left: 50%;
   transform: translateX(-50%);
-  width: 56px;
-  height: 56px;
-  border-radius: 999px;
-  border: 2px solid rgba(0,0,0,0.18);
-  background: var(--surface);
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  /* Added solid black border for better visibility */
+  border: 1px solid lightgrey;
+  background: hsl(var(--background));
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  transition: transform 150ms ease, box-shadow 150ms ease;
+  box-shadow: 0 8px 24px hsl(var(--foreground) / 0.15);
+  transition: all 200ms ease;
   z-index: 3;
 }
 
@@ -75,67 +189,184 @@
   mix-blend-mode: normal;
 }
 
+/* Enhanced value display */
+.value {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.winsNumber {
+  font-size: 18px;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  line-height: 1;
+}
+
+.winsLabel {
+  font-size: 11px;
+  font-weight: 500;
+  color: hsl(var(--muted-foreground));
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .label {
   margin-top: 8px;
-  font-size: 12px;
+  font-size: 13px;
+  font-weight: 600;
   text-align: center;
-  line-height: 1.2;
-  /* Ensure label height is consistent so wrapped text doesn't change bar height */
-  min-height: calc(2 * 1.2em);
-  max-height: calc(2 * 1.2em);
+  line-height: 1.3;
+  color: hsl(var(--foreground));
+  min-height: calc(2 * 1.3em);
+  max-height: calc(2 * 1.3em);
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
 .initials {
   font-weight: 800;
   color: #fff;
-}
-
-
-.value {
-  margin-top: 4px;
-  font-size: 12px;
-  font-weight: 600;
-  /* Fix value line height so it doesn't affect total bar height */
-  height: 1.2em;
-  line-height: 1.2;
 }
 
 @media (prefers-reduced-motion: reduce) {
   .fill {
     transition: none;
   }
+  .bar {
+    transition: none;
+  }
+  .avatar {
+    transition: none;
+  }
 }
 
-.bar:hover .avatar { transform: translateX(-50%) scale(1.03); box-shadow: 0 8px 18px rgba(0,0,0,0.2); }
-.bar:focus-visible .avatar { outline: 2px solid #3b82f6; outline-offset: 2px; }
+.bar:hover .avatar {
+  transform: translateX(-50%) scale(1.05);
+  box-shadow: 0 12px 32px hsl(var(--foreground) / 0.2);
+}
 
-/* Responsive tweaks */
+.bar:focus-visible .avatar {
+  outline: 2px solid hsl(var(--accent));
+  outline-offset: 2px;
+}
+
+/* Responsive design improvements */
 @media (max-width: 1024px) {
-  .bars { gap: 16px; min-height: 320px; }
-  .bar { width: 72px; padding-top: 56px; }
-  .track { height: 240px; }
-  .avatar { width: 48px; height: 48px; }
+  .bars {
+    gap: 20px;
+    min-height: 340px;
+  }
+  .bar {
+    width: 80px;
+    padding-top: 64px;
+  }
+  .track {
+    height: 260px;
+    border-radius: 20px;
+  }
+  .fill {
+    border-radius: 20px 20px 0 0;
+  }
+  .glow {
+    border-radius: 20px 20px 0 0;
+  }
+  .avatar {
+    width: 56px;
+    height: 56px;
+    /* adjusted avatar position for mobile */
+    top: 28px;
+  }
+  .rank {
+    width: 24px;
+    height: 24px;
+    font-size: 12px;
+    top: 6px;
+  }
 }
 
 @media (max-width: 768px) {
-  .root { padding: 40px 16px 8px; }
-  .bars { justify-content: flex-start; gap: 14px; }
-  .bar { width: 58px; padding-top: 52px; }
-  .track { height: 200px; }
-  .avatar { width: 40px; height: 40px; }
-  .label { font-size: 11px; }
-  .value { font-size: 11px; }
+  .root {
+    padding: 24px 16px 16px;
+  }
+  .header {
+    margin-bottom: 32px;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .subtitle {
+    font-size: 14px;
+  }
+  .bars {
+    justify-content: flex-start;
+    gap: 16px;
+  }
+  .bar {
+    width: 68px;
+    padding-top: 56px;
+  }
+  .track {
+    height: 220px;
+    border-radius: 16px;
+  }
+  .fill {
+    border-radius: 16px 16px 0 0;
+  }
+  .glow {
+    border-radius: 16px 16px 0 0;
+  }
+  .avatar {
+    width: 48px;
+    height: 48px;
+    top: 24px;
+  }
+  .label {
+    font-size: 12px;
+  }
+  .winsNumber {
+    font-size: 16px;
+  }
+  .rank {
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    top: 4px;
+  }
 }
 
 @media (max-width: 420px) {
-  .bars { gap: 10px; }
-  .bar { width: 48px; padding-top: 48px; }
-  .track { height: 170px; }
-  .avatar { width: 36px; height: 36px; }
+  .bars {
+    gap: 12px;
+  }
+  .bar {
+    width: 56px;
+    padding-top: 52px;
+  }
+  .track {
+    height: 180px;
+    border-radius: 12px;
+  }
+  .fill {
+    border-radius: 12px 12px 0 0;
+  }
+  .glow {
+    border-radius: 12px 12px 0 0;
+  }
+  .avatar {
+    width: 40px;
+    height: 40px;
+    top: 20px;
+  }
+  .winsNumber {
+    font-size: 14px;
+  }
+  .winsLabel {
+    font-size: 10px;
+  }
 }
-
-

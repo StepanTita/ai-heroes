@@ -10,5 +10,3 @@ export async function fetchCharacters(): Promise<Character[]> {
   const res = await fetch('/data/characters.json')
   return res.json()
 }
-
-

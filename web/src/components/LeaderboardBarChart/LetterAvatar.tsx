@@ -23,5 +23,3 @@ function LetterAvatar({ letter, color, size = 56, id }: Props) {
 }
 
 export default LetterAvatar
-
-

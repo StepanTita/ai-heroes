@@ -26,5 +26,3 @@ export function filterByModel(matchups: Matchup[], model: string | 'all'): Match
   if (!model || model === 'all') return matchups
   return matchups.filter((m) => m.model === model)
 }
-
-

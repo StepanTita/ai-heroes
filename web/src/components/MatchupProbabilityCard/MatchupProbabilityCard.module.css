@@ -1,84 +1,139 @@
-.root { padding: 24px 24px 24px; }
-
-.bar {
-  position: relative;
-  height: 24px;
-  border-radius: 999px;
-  background: rgba(0,0,0,0.08);
-  overflow: visible; /* allow avatars to extend outside */
-  box-shadow: var(--shadow);
-  display: grid;
-  grid-template-columns: 40px 1fr 40px;
+.root {
+  padding: 24px;
+  background: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: 12px;
+  box-shadow: 0 4px 16px hsl(var(--foreground) / 0.08), 0 2px 4px hsl(var(--foreground) / 0.04);
 }
 
-.fillA, .fillB {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  transition: width 320ms ease, background-color 240ms ease;
-}
-
-.fillA {
-  border-radius: 999px 0 0 999px;
-}
-
-.fillB {
-  border-radius: 0 999px 999px 0;
-}
-
-.avatarLeft, .avatarRight {
-  position: relative;
-  width: 40px;
-  height: 40px;
-  border-radius: 999px;
+/* Simplified container using flexbox layout */
+.container {
   display: flex;
   align-items: center;
-  justify-content: center;
+  gap: 0; /* Changed from 16px to 0 to make avatars touch the bar */
+}
+
+/* Simple avatar positioning */
+.leftAvatar,
+.rightAvatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: relative;
+  flex-shrink: 0;
+  background: hsl(var(--background));
+  border: 2px solid hsl(var(--border));
+  box-shadow: 0 4px 12px hsl(var(--foreground) / 0.15);
   overflow: hidden;
-  transform: translateY(-8px);
-  z-index: 10; /* ensure avatars are above other elements */
-  background: var(--surface);
-  border: 2px solid rgba(0,0,0,0.18);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.18);
+  z-index: 10; /* Increased z-index to ensure avatars appear above progress bar */
+  opacity: 1; /* Explicitly set opacity to 1 to remove any transparency */
 }
 
-.avatarLeft img, .avatarRight img {
-  opacity: 1;
-  mix-blend-mode: normal;
+.leftAvatar {
+  margin-right: -8px; /* Overlap with progress bar */
 }
 
-/* narrow blending strip that moves with the split to create a smooth gradient */
-.blend {
+.rightAvatar {
+  margin-left: -8px; /* Overlap with progress bar */
+}
+
+.avatarImage {
   position: absolute;
   top: 0;
-  bottom: 0;
-  width: 28px;
-  border-radius: 999px;
-  pointer-events: none;
-  z-index: 5;
-  transition: left 320ms ease;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  opacity: 1; /* Explicitly set opacity to 1 to remove any transparency */
 }
 
+/* Simple progress bar container */
+.progressBar {
+  flex: 1;
+  height: 24px;
+  border-radius: 12px;
+  background: hsl(var(--muted) / 0.2);
+  display: flex;
+  overflow: hidden;
+  z-index: 1; /* Set lower z-index so avatars appear on top */
+}
 
+/* Simple progress fills */
+.progressFillA,
+.progressFillB {
+  height: 100%;
+  transition: width 300ms ease;
+}
+
+.progressFillA {
+  border-radius: 12px 0 0 12px;
+}
+
+.progressFillB {
+  border-radius: 0 12px 12px 0;
+}
 
 .legend {
-  margin-top: 10px;
+  margin-top: 16px;
   display: flex;
   justify-content: space-between;
   font-size: 14px;
-  color: var(--muted);
+  font-weight: 500;
+  color: hsl(var(--foreground));
+}
+
+.legend span {
+  padding: 4px 8px;
+  background: hsl(var(--muted) / 0.3);
+  border-radius: 6px;
+  font-size: 13px;
+  color: hsl(var(--muted-foreground));
 }
 
 @media (max-width: 768px) {
-  .root { padding: 16px; }
-  .bar { grid-template-columns: 32px 1fr 32px; }
-  .avatarLeft, .avatarRight { width: 32px; height: 32px; transform: translateY(-6px); }
-  .legend { font-size: 12px; }
+  .root {
+    padding: 16px;
+  }
+
+  .container {
+    gap: 0; /* Changed from 16px to 0 to make avatars touch the bar */
+  }
+
+  .leftAvatar,
+  .rightAvatar {
+    width: 32px;
+    height: 32px;
+  }
+
+  .progressBar {
+    height: 20px;
+    border-radius: 10px;
+  }
+
+  .progressFillA {
+    border-radius: 10px 0 0 10px;
+  }
+
+  .progressFillB {
+    border-radius: 0 10px 10px 0;
+  }
+
+  .legend {
+    font-size: 12px;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+  }
+
+  .legend span {
+    font-size: 11px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .fillA, .fillB { transition: none; }
-  .blend { transition: none; }
+  .progressFillA,
+  .progressFillB {
+    transition: none;
+  }
 }
-
-

@@ -17,5 +17,3 @@ export function writeSelectedToUrl(a: string | null, b: string | null, replace: 
   if (replace) window.history.replaceState({}, '', newUrl)
   else window.history.pushState({}, '', newUrl)
 }
-
-
